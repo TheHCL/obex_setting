@@ -3,7 +3,7 @@
 
 
 
-
+sudo systemctl daemon-reload
 sudo systemctl restart bluetooth
 mac=$(hcitool dev | cut -sf3)
 tmp="\:"
