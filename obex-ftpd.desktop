@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=OBEX ftpd (obex-data-server)
+Exec=gnome-terminal -- /home/<user name>/bin/obex.sh
+StartupNotify=false
+NoDisplay=true
