@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sudo apt update
+
 sudo apt install obexftp
 sudo apt install obex-data-server
 sudo apt remove bluez-obexd bluez-cups
